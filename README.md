@@ -1,2 +1,2 @@
 # dpaul.github.io
->https://github.com/Dahrii-lab
+>https://dahrii-lab.github.io/dpaul.github.io/
